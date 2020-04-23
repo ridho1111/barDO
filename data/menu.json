@@ -1,0 +1,67 @@
+{
+	"menu" : [
+		{
+			"kategori"	: "ayam",
+			"nama"		: "sate ayam",
+		 	"deskripsi"	: "daging berpadu dengan saus madura asam manis dan jeruk nipis",
+			"harga"		: 17000,
+			"gambar"	: "sate ayam.png"
+		},
+		{
+			"kategori"	: "ayam",
+			"nama"		: "ayam bakar",
+			"deskripsi"	: "daging berpadu dengan mentega dan saus padang ",
+			"harga"		: 13000,
+			"gambar"	: "ayam bakar.png"
+		},
+		{
+			"kategori"	: "ayam",
+			"nama"		: "gulai ayam",
+			"deskripsi"	: "daging ayam yang berpadu dengan santan dan beberapa bumbu rempah tradisional yang membuat kaya akan rempah",
+			"harga"		: 20000,
+			"gambar"	: "gulai ayam.png"
+		},
+		{
+			"kategori"	: "nasi",
+			"nama"		: "nasi putih",
+			"deskripsi"	: "beras berkualitas tinggi yang di masak dengan sepenuh hati menciptakan nasi yang gurih",
+			"harga"		: 4000,
+			"gambar"	: "nasi putih.png"
+		},
+		{
+			"kategori"	: "nasi",
+			"nama"		: "gulanasi gorengi nasi",
+			"deskripsi"	: "nasi yang di olah dengan bumbu khas terbaik kemudian dipadukan dengan topping daging dan telur",
+			"harga"		: 15000,
+			"gambar"	: "nasi goreng.png"
+		},
+		{
+			"kategori"	: "nasi",
+			"nama"		: "nasi kebuli",
+			"deskripsi"	: "nasi yang di olah dengan rempah khas terbaik kemudian dipadukan dengan daging yang akan membuat rasanya kaya akan rempah",
+			"harga"		: 30000,
+			"gambar"	: "nasi kebuli.png"
+		},
+		{
+			"kategori"	: "minuman",
+			"nama"		: "es teh manis",
+			"deskripsi"	: "teh yang di ambil dari pucuknya dan gula murni bersatu dalam gelas yang memadukan citra rasanya",
+			"harga"		: 5000,
+			"gambar"	: "es teh manis.png"
+		},
+		{
+			"kategori"	: "minuman",
+			"nama"		: "juice",
+			"deskripsi"	: "buah segar yang di olah kemudian di tambah oleh susu",
+			"harga"		: 10000,
+			"gambar"	: "jus.png"
+		},
+		{
+			"kategori"	: "minuman",
+			"nama"		: "coffie",
+			"deskripsi"	: "biji kopi yang di ambil dari biji pilihan berpadu dengan gula murni bersatu dalam gelas yang memadukan citra rasanya",
+			"harga"		: 10000,
+			"gambar"	: "coffie.png"
+		} 
+	]
+}
