@@ -30,7 +30,7 @@
 		},
 		{
 			"kategori"	: "nasi",
-			"nama"		: "gulanasi gorengi nasi",
+			"nama"		: "nasi goreng",
 			"deskripsi"	: "nasi yang di olah dengan bumbu khas terbaik kemudian dipadukan dengan topping daging dan telur",
 			"harga"		: 15000,
 			"gambar"	: "nasi goreng.png"
@@ -53,14 +53,14 @@
 			"kategori"	: "minuman",
 			"nama"		: "juice",
 			"deskripsi"	: "buah segar yang di olah kemudian di tambah oleh susu",
-			"harga"		: 10000,
+			"harga"		: 8000,
 			"gambar"	: "jus.png"
 		},
 		{
 			"kategori"	: "minuman",
 			"nama"		: "coffie",
 			"deskripsi"	: "biji kopi yang di ambil dari biji pilihan berpadu dengan gula murni bersatu dalam gelas yang memadukan citra rasanya",
-			"harga"		: 10000,
+			"harga"		: 12000,
 			"gambar"	: "coffie.png"
 		} 
 	]
